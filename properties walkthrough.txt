@@ -1,0 +1,76 @@
+Images
+- img
+-- attributes
+-- width
+-- height
+-- image formats /jpg/gif/png
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+http://www.w3schools.com/tags/tag_img.asp
+
+Anchor
+- a
+- href - relative
+--- absolute
+-- target - _blank
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+http://www.w3schools.com/tags/tag_a.asp
+
+- div
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
+http://www.w3schools.com/tags/tag_div.asp
+
+- span
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span
+http://www.w3schools.com/tags/tag_span.asp
+
+- Box Model
+https://developer.mozilla.org/en-US/Learn/CSS/Introduction_to_CSS/Box_model
+http://www.w3schools.com/css/css_boxmodel.asp
+
+CSS
+- margin
+http://www.w3schools.com/css/css_margin.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+
+- padding
+http://www.w3schools.com/css/css_padding.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/padding
+
+- border
+http://www.w3schools.com/css/css_border.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/border
+
+
+- border-radius
+http://www.w3schools.com/css/css3_borders.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
+
+- background
+-- background-image
+-- background-repeat
+-- background-position
+https://developer.mozilla.org/en-US/docs/Web/CSS/background
+http://www.w3schools.com/css/css_background.asp
+
+- position
+-- static
+-- relative
+-- absolute
+-- fixed
+https://developer.mozilla.org/en-US/Learn/CSS/CSS_layout/Positioning
+http://www.w3schools.com/css/css_positioning.asp
+
+
+- display
+https://developer.mozilla.org/en-US/docs/Web/CSS/display
+http://www.w3schools.com/css/css_display_visibility.asp
+
+- float
+https://developer.mozilla.org/en-US/Learn/CSS/CSS_layout/Floats
+http://www.w3schools.com/css/css_float.asp
+
+Color: https://color.adobe.com/create/color-wheel/
+#174DB2
+#FF6D53
+#3A7EFF
+#5D773A
